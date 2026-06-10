@@ -6,7 +6,7 @@
 
 ### About
 
-- 🔭 Currently building a **SaaS Habit Tracker** with auth, reminders & analytics
+- 🤖 Transitioning into **AI Engineering** — exploring LLMs, RAG pipelines & ML fundamentals
 - 🌱 Learning **System Design** and **Cloud Architecture**
 - 💬 Ask me about **React, Node.js, PostgreSQL, or Python**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/neeraj-singh-yadav/)
