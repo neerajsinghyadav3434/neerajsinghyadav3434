@@ -6,10 +6,16 @@
 
 ### About
 
-- 🤖 Transitioning into **AI Engineering** — exploring LLMs, RAG pipelines & ML fundamentals
-- 🌱 Learning **System Design** and **Cloud Architecture**
-- 💬 Ask me about **React, Node.js, PostgreSQL, or Python**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/neeraj-singh-yadav/)
+```json
+{
+  "role"       : "Full Stack Developer",
+  "location"   : "India 🇮🇳",
+  "learning"   : ["AI Engineering", "LLMs", "RAG Pipelines", "ML Fundamentals"],
+  "stack"      : ["React", "Next.js", "Node.js", "Python", "PostgreSQL"],
+  "interests"  : ["System Design", "Cloud Architecture", "Open Source"],
+  "motto"      : "Code. Learn. Build. Repeat. 🚀"
+}
+```
 
 ---
 
